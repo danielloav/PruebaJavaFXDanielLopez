@@ -1,0 +1,10 @@
+.color_verdoso{ -fx-background-color : #008080;
+}
+
+.mytitle{
+	-fx-font-family: 'Bungee Inline', cursive,15px;
+}
+.myleter{
+	-fx-font-family:'Ranga', cursive;
+	
+}
