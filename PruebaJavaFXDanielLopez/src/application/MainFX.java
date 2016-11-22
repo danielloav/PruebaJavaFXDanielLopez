@@ -8,7 +8,11 @@ import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
-
+/**
+ * 
+ * @author daniel
+ *
+ */
 public class MainFX extends Application {
 
 	private Stage primaryStage;
